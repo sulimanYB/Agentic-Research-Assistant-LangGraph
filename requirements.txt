@@ -1,0 +1,14 @@
+# LangChain and LangGraph
+langchain
+langgraph
+langchain-openai
+
+# External research tools
+langchain-tavily
+langchain-community
+wikipedia
+biopython
+
+# Configuration and testing
+python-dotenv
+pytest

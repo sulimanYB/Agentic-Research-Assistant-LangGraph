@@ -1,0 +1,24 @@
+# API keys and environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Conda and virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code workspace settings
+.vscode/
+
+# Temporary files and logs
+*.log
+*.tmp
+
+.pytest_cache/
