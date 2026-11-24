@@ -78,7 +78,7 @@ Agentic-Research-Assistant-LangGraph/
 Clone the repository and navigate to the project directory.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Agentic-Research-Assistant-LangGraph.git
+git clone https://github.com/sulimanYB/Agentic-Research-Assistant-LangGraph.git
 cd Agentic-Research-Assistant-LangGraph
 ```
 
